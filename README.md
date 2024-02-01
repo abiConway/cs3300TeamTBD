@@ -8,12 +8,12 @@ Project Link: https://github.com/users/abiConway/projects/1
 - [Title](#Contents-1)
 
 ### Documentation
-[Markdown Documentation](./Documentation/Markdown Documentation.md)
-[Django Documentation](./Documentation/Django Documentation.md)
-[HTML Documentation](./Documentation/HTML Documentation.md)
-[CSS Documentation](./Documentation/CSS Documentation.md)
+[Markdown Documentation](./Documentation/Markdown.md)
+[Django Documentation](./Documentation/Django.md)
+[HTML Documentation](./Documentation/HTML.md)
+[CSS Documentation](./Documentation/CSS.md)
 
 ### Guided Exploration 
-[GE02 Djando Portfolio Set Up](./Guided Exploration/GE02 Djando Portfolio Set Up.md)
-[GE03 Portfolio Django MVT Model and Database](./GE03 Portfolio Django MVT Model and Database.md)
-[GE04 HTML CSS BootStrap](./Guided Exploration/GE04 HTML CSS BootStrap.md)
+[GE02 Djando Portfolio Set Up](./GuidedExploration/GE02.md)
+[GE03 Portfolio Django MVT Model and Database](./GuidedExploration/GE03.md)
+[GE04 HTML CSS BootStrap](./Guided Exploration/GE04.md)
