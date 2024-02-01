@@ -2,10 +2,11 @@ cs3300 team repository <br />
 Discord link: https://discord.com/channels/1194757913223376969/1194757917476401257 <br />
 Project Link: https://github.com/users/abiConway/projects/1
 
+
 # CS-3300
 
+
 ## Table of Contents
-- [Title](#Contents-1)
 
 ### Documentation
 [Markdown Documentation](./Documentation/Markdown.md)
