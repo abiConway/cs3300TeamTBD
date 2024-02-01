@@ -8,7 +8,7 @@ Project Link: https://github.com/users/abiConway/projects/1
 
 ## Table of Contents
 
-[Contents] (#Contents-1)
+[Contents](#Contents-1)
 
 ### Documentation
 [Markdown Documentation](./Documentation/Markdown.md)
